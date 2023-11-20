@@ -13,6 +13,14 @@ Analysis on Canada's Foreign Direct Investment by NAICS sectors from 1999 to 202
 9. Are there any specific clusters present in the data?
 10. Can we forecast the trend for the following year?
 
+### Files
+- `Canada FDI Analysis.twb`: Tableau Analysis File
+- `Cleaned FDI Data by NAICS.xlsx`: Excel Cleansed FDI Data
+- `Original FDI Data by NAICS.xlsx`: Excel Original FDI Data
+- `cleanserFDI.py`: Python Data Cleansing Script
+- `Dashboard.png`: Exported Image of Tableau Dashboard
+
+
 ### Data Citation
 `Statistics Canada. Table 36-10-0009-01  International investment position, Canadian direct investment abroad and foreign direct investment in Canada, by North American Industry Classification System (NAICS) and region, annual (x 1,000,000)`
 
