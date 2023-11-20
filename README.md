@@ -1,6 +1,9 @@
 # Canada FDI Analysis
 Analysis on Canada's Foreign Direct Investment by NAICS sectors from 1999 to 2022
 
+### Dashboard
+![Tableau FDI Analysis Dashboard](./Dashboard.png)
+
 ### Questions Answered
 1. Which sector received the maximum direct funding for a given year?
 2. Which sector received the minimum direct funding for a given year?
